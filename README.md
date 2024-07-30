@@ -199,14 +199,3 @@ index =
 7. Access the Streamlit UI by navigating to http://localhost:8501/ in your web browser.
 
 8. Enter username and password if you've already logged in. Otherwise you can register yourself and then run the application.
-
-
-## Team Contribution
-
-WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
-
-| Name                      | Contribution % |
-| ------------------------- | -------------- |
-| Muskan Deepak Raisinghani | 33.3%          |
-| Rachana Keshav            | 33.3%          |
-| Ritesh Choudhary          | 33.3%          |
